@@ -35,20 +35,20 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Web Marketer", "Developpeur", "Monteur vidéo", "Designer", "Freelancer"],
+        strings: ["Couverture", "Charpente", "Gouttière", "isolation des combles", "Entretien toiture"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Web Marketer", "Developpeur", "Monteur vidéo", "Designer", "Freelancer"],
+        strings: ["Couverture", "Charpente", "Gouttière", "isolation des combles", "Entretien toiture"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
-    // owl carousel script
+    // carousel script
     $('.carousel').owlCarousel({
         margin: 20,
         loop: true,
